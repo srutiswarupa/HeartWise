@@ -1,6 +1,6 @@
 # HeartWise — Heart Health Analysis
 ### IBM SkillsBuild & BharatCares Data Analytics with AI Internship
-**Submitted by:** SrutiSwarupa
+**Submitted by:** Sruti Swarupa Mahapatra
 
 > ⚠️ **Educational Disclaimer:** This project is created solely for learning purposes as part of the IBM SkillsBuild & BharatCares Data Analytics with AI internship. It is **NOT** a medical diagnosis tool. Do not use any output for clinical or health decisions. Always consult a qualified healthcare professional.
 
@@ -64,7 +64,7 @@
 
 ```
 HeartWise/
-├── SrutiSwarupa_HeartHealthAnalysis.ipynb   ← Jupyter notebook (main deliverable)
+├── SrutiSwarupaMahapatra_HeartHealthAnalysis.ipynb   ← Jupyter notebook (main deliverable)
 ├── requirements.txt                          ← Python dependencies
 ├── README.md                                 ← This file
 ├── app.py                                    ← Streamlit interactive dashboard
@@ -96,9 +96,9 @@ pip install -r requirements.txt
 ```
 
 ### 2. Run the analysis notebook
-Open `SrutiSwarupa_HeartHealthAnalysis.ipynb` in Jupyter and run all cells:
+Open `SrutiSwarupaMahapatra_HeartHealthAnalysis.ipynb` in Jupyter and run all cells:
 ```bash
-jupyter notebook SrutiSwarupa_HeartHealthAnalysis.ipynb
+jupyter notebook SrutiSwarupaMahapatra_HeartHealthAnalysis.ipynb
 ```
 
 ### 3. Launch the interactive dashboard
